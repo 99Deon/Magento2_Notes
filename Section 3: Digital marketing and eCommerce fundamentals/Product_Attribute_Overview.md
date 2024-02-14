@@ -56,14 +56,14 @@ When displayed from the admin, attributes are the fields you fill in when creati
 1. Open the product in edit mode.
 2. In the top right corner, click on "Add Attribute".
 
-![New product with default attribute set](image-link-here)
+**New product with default attribute set**
 
 To add an existing attribute to the product, use the filter controls to find the attribute in the grid and proceed as follows:
 
 - Check the box in the first column of each attribute to add.
 - Click on "Add Selected".
 
-![Selecting an attribute](image-link-here)
+**Selecting an attribute**
 
 To define a new attribute, click on "Create New Attribute" and fill in the details in step 2.
 
@@ -71,9 +71,9 @@ To define a new attribute, click on "Create New Attribute" and fill in the detai
 
 ### Attribute Properties
 
-- Enter an Attribute Label to identify the attribute.
-- Set Catalog Input Type for Store Owner to the input control type to use for data entry.
-- If the attribute is used for a configurable product, choose Dropdown. Then set Required to Yes.
+- Enter an Attribute `Label` to identify the attribute.
+- Set `Catalog Input Type for Store Owner` to the input control type to use for data entry.
+- **If the attribute** is used for a configurable product, choose Dropdown. Then set Required to Yes.
 
 For Dropdown and Multiple Select input types, proceed as follows:
 
