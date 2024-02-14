@@ -39,7 +39,7 @@ AREA	               FILE LOCATION
 - Observers are a fundamental concept in Magento that allow classes to influence general behavior, performance, or alter business logic. 
 - They are executed whenever the event they are configured to watch is dispatched by the event manager.
 1. Creating an Observer
-    - To create an observer, place your class file under your > <module-root>/Observer directory. Your observer class should implement Magento\Framework\Event\ObserverInterface and define its execute function.
+    - To create an observer, place your class file under your > **<module-root>/Observer** directory. Your observer class should **implement Magento\Framework\Event\ObserverInterface** and define its execute function.
 
 2. Example Structure:
 
