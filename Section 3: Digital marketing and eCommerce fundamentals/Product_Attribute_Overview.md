@@ -2,7 +2,7 @@
 
 ## Overview
 
-Product attributes are fundamental in building your product catalog, describing specific characteristics of a product. They can be organized into attribute sets, which are then used as templates to create products.
+**Product attributes** are fundamental in building your product catalog, describing specific characteristics of a product. They can be organized into **attribute sets**, which are then used as templates to create products.
 
 Attributes determine the type of input control used for product options and provide additional information for product pages. They also serve as parameters and search criteria for layered navigation, product comparison reports, and promotions. You can create as many attributes and attribute sets as necessary to describe the products in your catalog. In addition to custom attributes, system attributes like price are integrated into the main Commerce platform and cannot be modified.
 
@@ -17,10 +17,6 @@ Define consistent naming conventions for attributes, including letter case and p
 ### Attribute Usage
 
 Consider how attributes should be used when assigning properties and values. Identify attributes used as labels for presentation, such as product name, image, price, and description, as well as attributes used for data input. Consider how attributes are represented on different site pages and their appearance on category pages, product detail pages, category grids, and thumbnails.
-
-### Color
-
-Ad hoc color descriptions can pose database operation challenges. Color names like "Azure Skies" or "Red Skies" may be visually appealing but may not return the best results when used as search criteria, or if merchandising requires specifying "Color_Family:Blue." Consider color representation in search results and layered navigation and establish guidelines based on your business needs. Then be consistent when assigning color attribute values in your catalog.
 
 ### Handling Variations
 
@@ -40,20 +36,20 @@ When displayed from the admin, attributes are the fields you fill in when creati
 
 ### Attribute Input Types
 
-- Text Field
-- Text Area
-- Text Editor
-- Date
-- Date and Time
-- Yes/No
-- Dropdown
-- Multiple Select
-- Price
-- Media Image
-- Fixed Product Tax
-- Visual Swatch
-- Text Swatch
-- Page Builder
+- Text Field    : A single-line input field for text.
+- Text Area     : Such as a product description. You can use the WYSIWYG Editor
+- Text Editor   : A fully functioning text editor at the attribute location.
+- Date          : Date values can be selected from a list or a calendar.
+- Date and Time : Example format: MM/DD/YYYY HH:MM
+- Yes/No        : Displays a drop-down list with pre-defined options of Yes and No.
+- Dropdown      : Displays a drop-down list of values that accepts only a single selection. 
+- Multiple Select: Displays a drop-down list of values that accepts multiple selections.
+- Price         : This input type is used to create price fields that are in addition to the predefined attributes: **Price**, **Special Price**, **Tier Price**, and **Cost**. 
+- Media Image   : An extra image type, along with Base, Small, and Thumbnail. 
+- Fixed Product Tax : Fixed Product Tax (FPT) is a feature that allows you to define fixed tax rates for specific products based on the requirements of your locale. 
+- Visual Swatch : Showcases the color,texture,or pattern of a configurable product.It can be represented by a hexadecimal color value or an uploaded image,accurately depicting the product's attributes.
+- Text Swatch   : A text-based representation of a configurable product option that is frequently used for size. Text swatches can also include hexadecimal color values.
+- Page Builder  : A workspace at the attribute location that makes it easy to add engaging content to the product page. 
 
 ## Step 1: Adding an Attribute
 
