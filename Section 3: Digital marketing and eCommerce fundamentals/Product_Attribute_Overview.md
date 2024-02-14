@@ -36,20 +36,20 @@ When displayed from the admin, attributes are the fields you fill in when creati
 
 ### Attribute Input Types
 
-- Text Field    : A single-line input field for text.
-- Text Area     : Such as a product description. You can use the WYSIWYG Editor
-- Text Editor   : A fully functioning text editor at the attribute location.
-- Date          : Date values can be selected from a list or a calendar.
-- Date and Time : Example format: MM/DD/YYYY HH:MM
-- Yes/No        : Displays a drop-down list with pre-defined options of Yes and No.
-- Dropdown      : Displays a drop-down list of values that accepts only a single selection. 
-- Multiple Select: Displays a drop-down list of values that accepts multiple selections.
-- Price         : This input type is used to create price fields that are in addition to the predefined attributes: **Price**, **Special Price**, **Tier Price**, and **Cost**. 
-- Media Image   : An extra image type, along with Base, Small, and Thumbnail. 
-- Fixed Product Tax : Fixed Product Tax (FPT) is a feature that allows you to define fixed tax rates for specific products based on the requirements of your locale. 
-- Visual Swatch : Showcases the color,texture,or pattern of a configurable product.It can be represented by a hexadecimal color value or an uploaded image,accurately depicting the product's attributes.
-- Text Swatch   : A text-based representation of a configurable product option that is frequently used for size. Text swatches can also include hexadecimal color values.
-- Page Builder  : A workspace at the attribute location that makes it easy to add engaging content to the product page. 
+- **Text Field**    : A single-line input field for text.
+- **Text Area**     : Such as a product description. You can use the WYSIWYG Editor
+- **Text Editor**   : A fully functioning text editor at the attribute location.
+- **Date**         : Date values can be selected from a list or a calendar.
+- **Date and Time** : Example format: MM/DD/YYYY HH:MM
+- **Yes/No**        : Displays a drop-down list with pre-defined options of Yes and No.
+- **Dropdown**      : Displays a drop-down list of values that accepts only a single selection. 
+- **Multiple Select**: Displays a drop-down list of values that accepts multiple selections.
+- **Price**        : This input type is used to create price fields that are in addition to the predefined attributes: **Price**, **Special Price**, **Tier Price**, and **Cost**. 
+- **Media Image**   : An extra image type, along with Base, Small, and Thumbnail. 
+- **Fixed Product Tax** : Fixed Product Tax (FPT) is a feature that allows you to define fixed tax rates for specific products based on the requirements of your locale. 
+- **Visual Swatch** : Showcases the color,texture,or pattern of a configurable product.It can be represented by a hexadecimal color value or an uploaded image,accurately depicting the product's attributes.
+- **Text Swatch**   : A text-based representation of a configurable product option that is frequently used for size. Text swatches can also include hexadecimal color values.
+- **Page Builder**  : A workspace at the attribute location that makes it easy to add engaging content to the product page. 
 
 ## Step 1: Adding an Attribute
 
